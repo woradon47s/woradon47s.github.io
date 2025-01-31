@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Woradon Samphanphaisarn / Site Title"
+title                    : "Woradon Samphanphaisarn / Pangpond"
 title_separator          : "-"
 name                     : &name "Woradon Samphanphaisarn"
 description              : &description "Nice to meet you Japan"
@@ -24,7 +24,7 @@ author:
   avatar           : "Pond.jpeg"
   name             : "Woradon Samphanphaisarn"
   pronouns         : "He/Him"  
-  bio              : "Egoist"
+  bio              : "Ghibli Fan, Anime Lover, and a Software Engineer"
   location         : "Bangkok, Thailand"
   employer         : "KMUTT"
   uri              : # URL
