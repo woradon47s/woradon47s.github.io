@@ -16,7 +16,7 @@ redirect_from:
 ![Avatar](/images/gif.gif)
 
 ## 🧩 Who am I?
-I'm **Woradon Samphanphaisarn**, a relentless explorer in the realm of technology, design, and systems thinking. Passionate about crafting efficient and aesthetic digital experiences, I thrive at the intersection of **UX/UI, automation, and security.**
+I'm **Woradon Samphanphaisarn**, a relentless explorer in the realm of technology, design, and systems thinking. Passionate about crafting efficient and aesthetic digital experiences, I thrive at the intersection of **Front-end Developement, IOT, UX/UI Design**
 
 ## 🌍 Where am I?
 Currently based in **Bangkok, Thailand**, I am associated with **KMUTT**, always seeking new challenges and collaborations that push the boundaries of creativity and innovation.
