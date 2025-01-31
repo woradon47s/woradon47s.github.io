@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to My Profile! - 私のプロフィールへようこそ!🇯🇵"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,11 @@ redirect_from:
 
 # Woradon Samphanphaisarn
 
-> "Egoist in pursuit of mastery."
+>  » Soft spot - keshi «
+>   0:58 ─〇───── 3:16
+>  ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
 
-![Avatar](/images/Pond.jpeg)
+![Avatar](/images/gif.gif)
 
 ## 🧩 Who am I?
 I'm **Woradon Samphanphaisarn**, a relentless explorer in the realm of technology, design, and systems thinking. Passionate about crafting efficient and aesthetic digital experiences, I thrive at the intersection of **UX/UI, automation, and security.**
