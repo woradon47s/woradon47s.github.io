@@ -8,27 +8,27 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Woradon Samphanphaisarn / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Woradon Samphanphaisarn"
+description              : &description "Nice to meet you Japan"
+url                      : https://woradon47s.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "woradon47s/woradon47s.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "Pond.jpeg"
+  name             : "Woradon Samphanphaisarn"
+  pronouns         : "He/Him"  
+  bio              : "Egoist"
+  location         : "Bangkok, Thailand"
+  employer         : "KMUTT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "woradon.samp@kmutt.ac.th" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
