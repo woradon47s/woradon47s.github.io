@@ -9,9 +9,9 @@ redirect_from:
 
 # Woradon Samphanphaisarn
 
->    » Soft spot - keshi « <br>
->   0:58 ─〇───── 3:16 <br>
->    ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
+ » Soft spot - keshi « <br>
+  0:58 ─〇───── 3:16 <br>
+ ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
 
 ![Avatar](/images/gif.gif)
 
